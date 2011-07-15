@@ -152,7 +152,7 @@
 			
 			private function init():void 
 			{
-				varRecordSecLimitation = 180;
+				varRecordSecLimitation = 181;
 				varRecordSecEndWarning = 10;
 				varNetConnection = new NetConnection();
 				varNetConnection.connect(null);
